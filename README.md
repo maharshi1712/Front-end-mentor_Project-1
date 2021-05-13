@@ -1,4 +1,4 @@
 
 This is basic web page design from Front end mentor
 
-Preview : front-end-mentor-1.netlify.app
+Preview : https://front-end-mentor-1.netlify.app
